@@ -14,6 +14,14 @@
       {
         "key": "ctrl+.",
         "command": "workbench.action.showCommands"
+      },
+      {
+        "key": "ctrl+d",
+        "command": "editor.action.copyLinesDownAction"
+      },
+      {
+        "key": "ctrl+shift+a",
+        "command": ""
       }
     ]
   }
